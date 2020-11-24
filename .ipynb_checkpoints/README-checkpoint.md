@@ -1,6 +1,6 @@
 # TimeSeries_Homework
 
-Feel free to skip straight to the [Conclusions][]. Otherwise, here is the background on the Python files in this repository.
+Feel free to skip straight to the [Conclusions](). Otherwise, here is the background on the Python files in this repository.
 
 ## Background
 
