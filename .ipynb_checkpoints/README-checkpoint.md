@@ -1,6 +1,6 @@
 # TimeSeries_Homework
 
-Feel free to skip straight to the [Conclusions](Conclusions). Otherwise, here is the background on the Python files in this repository.
+Feel free to skip straight to the [Conclusions](#Conclusions). Otherwise, here is the background on the Python files in this repository.
 
 ## Background
 
@@ -54,7 +54,7 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 4. Out-of-sample performance.
 5. In-sample performance.
 
-[Conclusions]
+### Conclusions
 
 Use the results of the time series analysis and modeling to answer the following questions:
 
