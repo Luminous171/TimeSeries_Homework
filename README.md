@@ -58,9 +58,9 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 
 Use the results of the time series analysis and modeling to answer the following questions:
 
-1. Based on your time series analysis, would you buy the yen now?
-2. Is the risk of the yen expected to increase or decrease?
-3. Based on the model evaluation, would you feel confident in using these models for trading?
+A. Based on your time series analysis, would you buy the yen now?
+B. Is the risk of the yen expected to increase or decrease?
+C. Based on the model evaluation, would you feel confident in using these models for trading?
 
 1. Ignoring the model accuracy and confidence intervals (not typically a good idea), it would appear a bad time to convert dollars to yen as the yen is forecasted to depreciate in value. In addition the volatility is expected to increase so the error margin might be greater assuming the GARCH model is correct. 
 2. The risk of the yen is expected to increase based on the GARCH model forecast from 7.44% volatility to 7.60% volatility over the next five days.
